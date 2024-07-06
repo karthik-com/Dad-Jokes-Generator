@@ -10,7 +10,7 @@ const options = {
     },
 }
 
-const apiURL = "https://api.api-ninjas.com/v1/dadjokes?limit=1"
+const apiURL = "https://api.api-ninjas.com/v1/dadjokes?limit=1";
 
 async function getJoke(){
     try {
